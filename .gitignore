@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+examples/
+data/
+ML-tp1/machine-learning-tp1-starter/
